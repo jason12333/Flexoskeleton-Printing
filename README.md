@@ -1,3 +1,4 @@
 # Flexoskeleton-Printing
+## Project Overview
 
-This is a project focusing on the modification of traditional FDM printing with improved print properties and functionalities. 
+This focuses on the modification of traditional FDM printing to created 3D printed parts with improved material properties and functionalities for robotic applications.  
