@@ -1,3 +1,5 @@
+![hero](https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/ezgif-6-e2f3607475d6.gif)
+
 # Flexoskeleton-Printing
 ## Project Overview
 
