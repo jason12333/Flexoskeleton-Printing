@@ -1,7 +1,7 @@
 ```![hero](https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/ezgif-6-e2f3607475d6.gif)```
 
 
-<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/ezgif-6-e2f3607475d6.gif width="40%">
+<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/ezgif-6-e2f3607475d6.gif width="120%">
 
 # Flexoskeleton-Printing
 ## Project Overview
