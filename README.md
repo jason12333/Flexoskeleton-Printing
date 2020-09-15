@@ -4,7 +4,7 @@
 # Flexoskeleton-Printing
 ## Overview of flexoskeleton printing
 
-Flexoskeleton printing is a rapid prototyping method based on the modification of traditional FDM 3D printing techonology to create 3D prints with improved material properties and functionalities. Tradtional FDM printing method includes the formation of both rigid and soft (semi-soft) structures based on The key of this method relies on the direct deposition of normal FDM filaments (e.g. ABS/PLA) onto a flexible yet inextensible backing film (e.g. PC, Polycarbonate) creating 3D printed parts with improved flexibilities and functional features (e.g. jamming and interlocking). Thus it does not require either fancy pritners nor contricated post-processing but rather an automatic formation of hy 
+Hybrid robots composed of rigid and soft elements have previously required access to expensive multi-material 3D printers, multi-step casting and machining processes, or limited material choice when using consumer grade fabrication methods. Here we introduce a new design and fabrication process to rapidly construct flexible exoskeleton-inspired robots called ‘flexoskeleton printing’. We modify a consumer grade fused deposition material (FDM) 3D printer to deposit filament directly onto a heated thermoplastic base layer which provides extremely strong bond strength between deposited material and the inextensible, flexible base layer. This process significantly improves the fatigue resistance of printed components and enables a new class of insect-inspired robot morphologies
 
 ## Instructions on flexoskeleton printing
 
