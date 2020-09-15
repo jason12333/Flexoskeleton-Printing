@@ -8,20 +8,22 @@ Hybrid robots composed of rigid and soft elements have previously required acces
 
 This process is based on the modification of consumer grade [fused deposition material (FDM) 3D printers](cite) to extrude rigid FDM filaments (e.g. ABS/PLA) directly onto a flexible yet inextensible thermoplastic backing layer (PC, Polycarbonate). Upon deposition, the two materials form strong and instant bonding based on properly tuned heatbed temperature and initial Z-level of the nozzle. This method significantly improves the fatigue resistance and large-angle bendability of printed components and enables a class of insect-inspired robot morphologies, such as joint limits based on jamming and interlocking of rigid [mushrooms](https:cite). 
 
-## Building flexoskeleton printed parts
+## Instructions on flexoskeleton printing
 
-Flexoskeleton printing is based on direct deposition of traditional FDM filaments (e.g. ABS/PLA) onto a flexible yet inextensible backing film (e.g. PC, Polycarbonate),  
+Flexoskeleton printing is based on direct deposition of traditional FDM filaments (e.g. ABS/PLA) onto a flexible yet inextensible backing film (e.g. PC, Polycarbonate). It combines the design concepts from lamination with 
 
 
 ### Fabrication steps
 
 ### Thermal bonding 
 
-### Post-assembly
+### "Mushroom" designs
+
+### 
 
 ## Gallery of flexoskeleton printing
 
 ## Flexoskeleton related projects
 
-## Mushroom designs
+
 
