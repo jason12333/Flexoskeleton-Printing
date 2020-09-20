@@ -19,6 +19,14 @@ Flexoskeleton printing is based on direct deposition of traditional FDM filament
 
 ### "Mushroom" designs
 
+The mushroom designs are printed jammable structures that can stiffen the flexoskeleton printed flexure upon reaching the joint limit. 
+
+There are two main types of "mushroom" designs, which are "extension" joint that locks up when the joint is flexed.  
+
+A.
+
+
+
 ### 
 
 ## Gallery of flexoskeleton printing
