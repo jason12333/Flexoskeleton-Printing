@@ -25,7 +25,7 @@ There are two main types of "mushroom" designs, which are "extension" joint that
 
 A.
 
-
+<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/extension%20joint.jpg width="120%">
 
 ### 
 
