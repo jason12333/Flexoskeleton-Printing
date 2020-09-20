@@ -29,7 +29,7 @@ A. Straight mushrooms as flexion joint limits.
 B. Reverse mushrooms that locks up when the joints are flexed. 
 
 
-<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/extension%20joint.jpg width="120%">
+<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/extension%20joint.PNG width="120%">
 
 ### 
 
