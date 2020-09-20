@@ -21,9 +21,13 @@ Flexoskeleton printing is based on direct deposition of traditional FDM filament
 
 The mushroom designs are printed jammable structures that can stiffen the flexoskeleton printed flexure upon reaching the joint limit. 
 
-There are two main types of "mushroom" designs, which are "extension" joint that locks up when the joint is flexed.  
+There are two main types of "mushroom" designs:
 
-A.
+A. Straight mushrooms as flexion joint limits. 
+
+
+B. Reverse mushrooms that locks up when the joints are flexed. 
+
 
 <img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/extension%20joint.jpg width="120%">
 
