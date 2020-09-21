@@ -19,7 +19,7 @@ Flexoskeleton printing is based on direct deposition of traditional FDM filament
 
 ### Thermal bonding 
 
-Bonding between the rigid filament (PLA/ABS) and the backing layer (PC) is achieved based on the [thermal bonding effect](https://www.sciencedirect.com/science/article/pii/S0257897216312786) between different thermoplastic materials. High bonding strength is thus a product of high pressure and temperature between the thermoplastic interface. To do so, we adjust the nozzle to start at within 0.1mm above the backing layer. The heatbed is heated up to 80°C~100°C, with the nozzle around 200°C~220°C (depending on the materials you are printing). 
+Bonding between the rigid filament (PLA/ABS) and the backing layer (PC) is achieved based on the [thermal bonding effect](https://www.sciencedirect.com/science/article/pii/S0257897216312786) between different thermoplastic materials. High bonding strength is thus a product of high pressure and temperature between the thermoplastic interface. To do so, we adjust the nozzle to start at within 0.1mm above the backing layer. The heatbed is heated up to 80°C\~100°C, with the nozzle around 200°C\~220°C (depending on the materials you are printing). 
 
 ### "Mushroom" designs
 
