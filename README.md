@@ -28,7 +28,7 @@ b. [Thermoplastic backing layer (Polycarbonate, PC)](https://www.mcmaster.com/po
 
 Bonding between the rigid filament (PLA/ABS) and the backing layer (PC) is achieved based on the [thermal bonding effect](https://www.sciencedirect.com/science/article/pii/S0257897216312786) between different thermoplastic materials. High bonding strength is a product of high pressure and temperature between the thermoplastic interface. To do so, we adjust the nozzle to start at within 0.1mm above the backing layer. The heatbed is heated up to 80°C—100°C, with the nozzle around 200°C—220°C (depending on the materials you are printing). The picture on the left shows the first layer print quality with different Z-level of the printhead nozzle, with the right one showing a flexoskeleton printed knob can hold a heavy weight (7.5lbs) without delamination. Note that perfect nozzle height should provide a slightly compressed first layer print, leading to high material bonding.
 
-<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/z-height%20performacne%20with%20weight%20lifting.PNG width="120%">
+<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/good%20thermal%20bonding.PNG width="120%">
 
 ### "Mushroom" designs
 
