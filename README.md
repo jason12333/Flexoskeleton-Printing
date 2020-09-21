@@ -18,8 +18,10 @@ Flexoskeleton printing is based on direct deposition of traditional FDM filament
 
 
 Basic fabrication tools needed: 
-a. A commercial FDM 3D printer with heatedbed.
-b. Thermoplastic backing layer (Polycarbonate, PC)
+
+a. [A commercial FDM 3D printer with heatedbed.](https://www.prusa3d.com/original-prusa-i3-mk3/)
+
+b. [Thermoplastic backing layer (Polycarbonate, PC)](https://www.mcmaster.com/polycarbonate)
 
 
 ### Thermal bonding 
