@@ -17,6 +17,8 @@ Flexoskeleton printing is based on direct deposition of traditional FDM filament
 
 ### Thermal bonding 
 
+Bonding between the rigid filament (PLA/ABS) and the backing layer (PC) is achieved based on the [thermal bonding effect](https://www.sciencedirect.com/science/article/pii/S0257897216312786) between different thermoplastic materials. High bonding strength is 
+
 ### "Mushroom" designs
 
 The mushroom designs are printed jammable structures that can stiffen the flexoskeleton printed flexure upon reaching the joint limit. 
