@@ -23,7 +23,7 @@ Basic fabrication tools needed:
 
 a. [A commercial FDM 3D printer with heatedbed.](https://www.prusa3d.com/original-prusa-i3-mk3/)
 
-b. [Thermoplastic backing layer (Polycarbonate, PC)](https://www.mcmaster.com/polycarbonate)
+b. [Thermoplastic backing layer (Polycarbonate, PC)](https://www.mcmaster.com/polycarbonate/clear-impact-resistant-polycarbonate-film/)
 
 c. [Standard PLA filament](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6/ref=sr_1_5?dchild=1&keywords=pla+filament&qid=1600810806&sr=8-5)
 
