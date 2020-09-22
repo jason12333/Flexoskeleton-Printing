@@ -15,7 +15,7 @@ Flexoskeleton printing is based on direct deposition of traditional FDM filament
 
 ### Fabrication steps
 
-
+<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/fabrication%20steps.PNG width="120%">
 
 Basic fabrication tools needed: 
 
