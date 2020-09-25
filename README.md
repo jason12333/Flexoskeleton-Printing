@@ -23,7 +23,7 @@ The picture above shows the basic farbication steps of flexoskeleton printing. F
 
 <p align="center">
   
-<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/printing2.gif width="80%">
+<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/printing2.gif width="60%">
 
 </p>
 
