@@ -41,6 +41,8 @@ Bonding between the rigid filament (PLA/ABS) and the backing layer (PC) is achie
 
 The mushroom designs are printed jammable structures that can stiffen the flexoskeleton printed flexure upon reaching the joint limit. 
 
+Using mushrooms, one can predict the locked up curvature of the hinge between each two mushrooms, and thus the whole bendable curvature. 
+
 There are two main types of "mushroom" designs:
 
 A. Straight mushrooms as flexion joint limits. 
