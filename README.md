@@ -59,5 +59,7 @@ This folder shows a library of different flexoskeleton designs and objects.
 
 ## Flexoskeleton related projects
 
+### A. Nonlinear hysteretic buckling joint
 
+### B. Flexoskeleton fingers
 
