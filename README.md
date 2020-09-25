@@ -19,7 +19,7 @@ Flexoskeleton printing is based on direct deposition of traditional FDM filament
 
 <img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/pre_preparation.gif width="60%"> 
 
-
+<img src=https://github.com/jason12333/Flexoskeleton-Printing/blob/master/images/printing1.gif width="60%"> 
 
 The picture above shows the basic farbication steps of flexoskeleton printing. First, we place and secure a thin piece of Polycarbonate film (5mils/10mils) onto the heatbed by applying glues (washable gluesticks) on one side of the PC film. We use rollers to further flatten out the film while preheating the heatbed to a high temperature (80°C—100°C). We then adjust the Z-level to have a nice compressed print line on the PC film as the print starts. During the printing process, one can simply pause the print and place (insert) any additional components such as electronic (resistors, transistors, switch), or structure components (springs, superelastic nitinol fibers) into the printed structures to expand the functionalities of the final prints. As the print finishes, we wait about 3—5 minutes for the part to cool and peel the whole layer off the bed manually. The last step is about releasing the final project from the backing layer by trimming the extra PC films using either scissors, or automatically by laser or vinyl cutting. 
 
